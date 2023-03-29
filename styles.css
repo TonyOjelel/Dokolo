@@ -1,0 +1,32 @@
+.card {
+    border-width: 1px;
+    border-color: black;
+  }
+
+#cd2{
+    background-color: rgb(59, 105, 231);
+}
+
+#cd3{
+    background-color: rgb(54, 197, 54);
+}
+
+#cd4{
+    background-color: aqua;
+}
+
+#cd6{
+    background-color: rgb(238, 57, 57);
+}
+
+#cd7{
+    background-color: rgb(226, 170, 97);
+}
+
+#cd8{
+    background-color: rgb(212, 80, 212);
+}
+
+#cd9{
+    background-color: yellow;
+}
